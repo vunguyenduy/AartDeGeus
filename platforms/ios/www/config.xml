@@ -4,7 +4,7 @@
     <preference name="orientation" value="portrait" />
     <preference name="DisallowOverscroll" value="true" />
     <description>
-        Chairman & CEO, Synopsys
+        Chairman and CEO, Synopsys
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
