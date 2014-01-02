@@ -66,7 +66,8 @@
 }
 
 .hlist {
-	margin-top: 20%;
+	position: absolute;
+	bottom:8%;
 	padding: 20px;
     width: 85%;
     font-family: bar-font;
