@@ -25,8 +25,8 @@
     <icon src="img/icons/android/AartDeGeus-icon-94.png" gap:platform="android" gap:density="hdpi" />
     <icon src="img/icons/android/AartDeGeus-icon-125.png" gap:platform="android" gap:density="xhdpi" />
     
-    <icon src="img/icons/AartDeGeus-icon-72.png" gap:platform="blackberry" />
-    <icon src="img/icons/AartDeGeus-icon-72.png" gap:platform="blackberry" gap:state="hover"/>
+    <icon src="img/play.png" gap:platform="blackberry" />
+    <icon src="img/play.png" gap:platform="blackberry" gap:state="hover"/>
 
     <gap:splash src="img/splash/AartDeGeus-splash-320x480.png" />
     
@@ -42,4 +42,9 @@
     <gap:splash src="img/splash/AartDeGeus-splash-640x960.png" gap:platform="android" gap:density="mdpi" />
     <gap:splash src="img/splash/AartDeGeus-splash-1536x2008.png" gap:platform="android" gap:density="hdpi" />
     <gap:splash src="img/splash/AartDeGeus-splash-1536x2008.png" gap:platform="android" gap:density="xhdpi" />
+    <!-- For BB-->
+    <gap:splash src="img/splash/AartDeGeus-splash-640x960.png" gap:platform="blackberry" />
+
+    <!-- For WP-->
+    <gap:splash src="img/splash/AartDeGeus-splash-640x960.png" gap:platform="winphone" />
 </widget>
