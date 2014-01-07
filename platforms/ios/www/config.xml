@@ -25,8 +25,8 @@
     <icon src="img/icons/android/AartDeGeus-icon-94.png" gap:platform="android" gap:density="hdpi" />
     <icon src="img/icons/android/AartDeGeus-icon-125.png" gap:platform="android" gap:density="xhdpi" />
     
-    <icon src="img/play.png" gap:platform="blackberry" />
-    <icon src="img/play.png" gap:platform="blackberry" gap:state="hover"/>
+    <icon src="img/bb/AartDeGeus-icon-68.png" gap:platform="blackberry" />
+    <icon src="img/bb/AartDeGeus-icon-68.png" gap:platform="blackberry" gap:state="hover"/>
 
     <gap:splash src="img/splash/AartDeGeus-splash-320x480.png" />
     
