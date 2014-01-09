@@ -123,6 +123,12 @@
 	margin-top:10px
 }
 
+.v-body {
+	float: left;
+	width: 96%;
+	margin: 20px;
+}
+
 .a-body {
 	float: left;
 	margin: 20px 10px 80px 20px;
